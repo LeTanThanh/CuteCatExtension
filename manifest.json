@@ -1,0 +1,6 @@
+{
+  "name": "Cute Cat Extension",
+  "description": "This extension show random cat image using GIFPHY's API",
+  "version": "1.0",
+  "manifest_version": 2
+}
