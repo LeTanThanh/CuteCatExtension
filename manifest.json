@@ -2,5 +2,14 @@
   "name": "Cute Cat Extension",
   "description": "This extension show random cat image using GIFPHY's API",
   "version": "1.0",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "images/icon.png"
+  },
+  "icons": {
+    "16": "images/icon.png",
+    "32": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
 }
